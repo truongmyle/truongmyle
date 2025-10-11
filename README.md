@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Truong My Le
 
 🎯 **Aspiring Data Analyst** | SQL • Power BI • Python • Data Storytelling

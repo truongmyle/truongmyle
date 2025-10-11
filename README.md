@@ -12,15 +12,9 @@ Economics background with a strong interest in Data Analysis. Building analytica
   - **SQL** (Syntax, Data Manipulation)
   - **Power BI** (Power Query, Data Modeling, Dashboard Design)
   - **Python** ( Basic data analysis and manipulation)
-- ✅ Experienced with end-to-end data workflows: cleaning, analysis, visualization, and reporting
 
 ---
 
 ## 📫 Connect with Me
 - Email: mylexoan219@gmail.com
 - Phone: 0936.502.921
-
----
-
-### 💡 Fun Fact
-I believe data tells stories that can change the world!

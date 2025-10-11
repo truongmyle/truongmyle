@@ -6,21 +6,20 @@
 ---
 
 ## 🌟 About Me
-I'm currently on a journey to become a data analyst, building a strong foundation in data analytics and business intelligence.  
-I enjoy turning raw data into meaningful insights that help drive better decisions.
+Economics background with a strong interest in Data Analysis. Building analytical skills through hands-on projects and eager to apply data-driven thinking to solve business challenges and support strategic decision-making.
 
-- 🔍 Passionate about **data storytelling** and **process optimization**
+- 🔍 Passionate about **data storytelling**, **Problem solving** and **Design thinking**
 - 🛠 Skilled in:
-  - **SQL** (Google BigQuery, PostgreSQL)
-  - **Power BI** (Dashboards, DAX, Power Query)
-  - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+  - **SQL** (Syntax, Data Manipulation)
+  - **Power BI** (Power Query, Data Modeling, Dashboard Design)
+  - **Python** ( Basic data analysis and manipulation)
 - ✅ Experienced with end-to-end data workflows: cleaning, analysis, visualization, and reporting
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn  
-- Email
+- Email: mylexoan219@gmail.com
+- Phone: 0936.502.921
 
 ---
 

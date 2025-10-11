@@ -5,9 +5,9 @@
 ---
 
 ## 🌟 About Me
-Economics background with a strong interest in Data Analysis. Building analytical skills through hands-on projects and eager to apply data-driven thinking to solve business challenges and support strategic decision-making.
+Background in Economics with a strong interest in Data Analysis. Building analytical skills through hands-on projects and eager to apply data-driven thinking to solve business challenges and support strategic decision-making.
 
-- 🔍 Passionate about **data storytelling**, **Problem solving** and **Design thinking**
+- 🔍 Passionate about **Problem solving**, **Data storytelling** and **Design thinking**
 - 🛠 Skilled in:
   - **SQL** (Syntax, Data Manipulation)
   - **Power BI** (Power Query, Data Modeling, Dashboard Design)

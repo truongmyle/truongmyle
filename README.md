@@ -11,7 +11,7 @@ Background in Economics with a strong interest in Data Analysis. Building analyt
 - 🛠 Skilled in:
   - **SQL** (Syntax, Data Manipulation)
   - **Power BI** (Power Query, Data Modeling, Dashboard Design)
-  - **Python** ( Basic data analysis and manipulation)
+  - **Python** ( Basic data cleaning, manipulation, and visualization)
 
 ---
 

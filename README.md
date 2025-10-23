@@ -17,4 +17,3 @@ Background in Economics with a strong interest in Data Analysis. Building analyt
 
 ## 📫 Connect with Me
 - Email: mylexoan219@gmail.com
-- Phone: 0936.502.921
